@@ -21,7 +21,8 @@ p {
 
 .header
 {
-margin-left: 30%;
+width:1000px;
+margin: auto;
 }
 
 img {
