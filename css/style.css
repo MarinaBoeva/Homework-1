@@ -8,7 +8,7 @@ border-top:1px solid black;
   width:30%;
   height:755px;
   background-color:white;
-  box-shadow: 0 0 2px #9D9C9B;
+  box-shadow: 0 0 2px #8B8989;
   padding: 60px 100px 60px 100px;
 }
 .header {
@@ -23,4 +23,7 @@ p {
 
 img {
   margin: 0 25% 0 25%;
+}
+body {
+  background-color:#D3D3D3;
 }
