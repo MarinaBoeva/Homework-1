@@ -1,12 +1,29 @@
 ﻿
-td {
-border-bottom:1px solid black;
+﻿
+.text {
+border-top:1px solid black;
 }
 
 .wrapper {
-  margin:0 30% 0 30%;
-  width:40%;
+  margin:0 35% 0 35%;
+  width:30%;
   height:755px;
   background-color:white;
   box-shadow: 0 0 2px #9D9C9B;
+  padding: 60px 100px 60px 100px;
+}
+
+p {
+  padding-top: 5px;
+  padding-bottom:5px;
+  padding-left: 20px;
+}
+
+.header
+{
+margin-left: 30%;
+}
+
+img {
+  margin: 0 25% 0 25%;
 }
